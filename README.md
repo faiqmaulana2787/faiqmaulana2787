@@ -1,42 +1,39 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/k2wZ0yN/github-banner.gif" alt="Banner" width="100%" />
+  <img src="https://media.tenor.com/_nDq8D4sKkIAAAAM/one-piece-luffy.gif" alt="Luffy Banner" width="100%" />
 </p>
 
-<!-- Animated Text -->
-<h1 align="center">
-  Hi there, I'm <span style="color:#ff4b4b;">Faiq Maulana</span> 👋  
-</h1>
-<h3 align="center">
-  🚀 Fullstack Developer | Mobile & Web Enthusiast
-</h3>
+## Hi there 👋 I'm Faiq Maulana
 
-<!-- Luffy GIF -->
-<p align="center">
-  <img src="https://media.tenor.com/_nDq8D4sKkIAAAAM/one-piece-luffy.gif" width="250" />
-</p>
+💻 **Fullstack Developer | Mobile & Web Enthusiast**
+
+I build modern, scalable, and user-friendly applications — both web & mobile.  
+I specialize in Laravel for backend and Flutter for mobile. I also build CBT/exam management systems.
 
 ---
 
-### 🎮 Pacman Mode
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/gifs/pacman.gif" width="300" />
-</p>
-
----
-
-### 💡 About Me
+### 🚀 What I do
 - 🔭 Currently working on **Exam Management System** & **CBT Platforms**  
-- 🌱 Currently learning **Flutter**, **Dart**, **Laravel**, and **REST API**  
-- 💡 Experienced in creating **consultation systems** and **multi-category question management**  
-- 📍 Based in **Indonesia**  
+- 🌱 Learning **Flutter**, **Dart**, **Laravel**, **REST API**  
+- 💡 Experience: multi-category question management, consultation systems, reporting & charts  
+- 📍 Based in **Indonesia**
+
+---
+
+### 🎮 Play my Pacman (playable!)
+<p align="center">
+  <a href="https://faiqmaulana2787.github.io/pacman-game" target="_blank">
+    <img src="https://raw.githubusercontent.com/faiqmaulana2787/pacman-game/main/assets/pacman-banner.gif" alt="Play Pacman" width="420"/>
+  </a>
+</p>
+Click the banner above (or this link) to **play Pacman** — hosted with GitHub Pages.
 
 ---
 
 ### 🛠 Tech Stack
-**Frontend:** HTML, CSS, JavaScript, Tailwind CSS, Flutter, Vue.js  
+**Frontend:** HTML, CSS, JavaScript, Tailwind CSS, Flutter  
 **Backend:** PHP, Laravel, MySQL, REST API  
-**Tools:** Git, VS Code, Postman, Figma  
+**Tools:** Git, VS Code, Postman, Figma
 
 ---
 
@@ -48,18 +45,10 @@
 
 ---
 
-### 📫 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/username">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/username)  
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 ---
 
-<p align="center">
-  ⭐ *"Code is like humor. When you have to explain it, it’s bad."*
-</p>
+⭐ *"Code is like humor. When you have to explain it, it’s bad."*
