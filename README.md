@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://motionbgs.com/media/1412/luffys-mighty-gear-5.jpg" alt="Luffy Banner" width="100%" />
+  <img src="img/Luffy Wano GIF - Luffy Wano One Piece - Discover & Share GIFs" alt="Luffy Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#ff4b4b;">Faiq Maulana</span></h1>
